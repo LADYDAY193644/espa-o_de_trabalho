@@ -2,7 +2,8 @@
 echo "Olá Mundo!";
 
 $acucar ="açucar";// variavel do tipo string
-$idadeUsuario =                                                                                                                                                 
+$idadeUsuarioAtivoNoSistema;
+$poteSorvete ;                                                                                                                                               
 
                                     
 
