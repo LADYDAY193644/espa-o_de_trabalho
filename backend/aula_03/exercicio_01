@@ -1,0 +1,12 @@
+<?php
+//verificar a nota do aluno se ele foi aprovado,considerando a nota mínima de 6 para aprovação;
+
+$notaFinal = 6;
+ if( $notaFinal >= 5){
+    echo "Aluno Aprovado!" ;
+ } else if($notaFinal > 6){
+   echo "Aluno Reprovado!";
+ }
+
+
+ ?>

@@ -44,7 +44,7 @@ $materias = array("Matemática","História","física"); // array
 
  // Para a aluna ser aprovada,precisa a nota final seja a partir de 60 E a frequencia seja apartir de 75%;
   $notaAlunaFinal = 70 ;
-  $frequenciaAluna = 85; // percentual de presença
+  $frequenciaAluna = 45; // percentual de presença
   if($notaAlunaFinal >= 60 || $frequenciaAluna >= 75){
      echo "Aluna aprovada!";
   }

@@ -1,0 +1,14 @@
+<?php
+//classificar em aprovado com distinção,aprovado e reprovado;
+$notaFinal = 9;
+if( $notaFinal >= 9){
+   echo "Aprovado com distinção!" ;
+} else if($notaFinal >=6 && $notaFinal<9){
+  echo "Aprovado!";
+}
+ else {
+  echo "Reprovado!";
+}
+
+
+?>
