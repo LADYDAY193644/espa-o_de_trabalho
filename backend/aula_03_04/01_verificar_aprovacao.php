@@ -8,5 +8,17 @@ $notaFinal = 6;
    echo "Aluno Reprovado!";
  }
 
+//correção do exercicio;
+// $nota = 7.5;
+// if($nota >=6){
+//   echo"A aluna foi aprovada.";
+// }else{
+//   echo"A aluna foi reprovada.";
+// }
+
+
+
+
+
 
  ?>

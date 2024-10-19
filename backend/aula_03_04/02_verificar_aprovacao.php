@@ -10,5 +10,15 @@ if( $notaFinal >= 9){
   echo "Reprovado!";
 }
 
+//correção do exercicio;
+// $nota = 4.5;
+// if( $notaFinal >= 9){
+//    echo "Aprovado com distinção!" ;
+// } else if($nota >=6) {
+//   echo "Aprovado!";
+// } else {
+//   echo "Reprovado!";
+// }
+
 
 ?>

@@ -9,13 +9,23 @@ if($turno = "M"){
   echo "Bom dia!" ;
  } else if($turno ="V"){
   echo "Boa tarde!";
-}
- else if($turno ="N") {
+}else if($turno ="N") {
   echo "Boa noite!";
+}else {
+  echo "Inválido!";
 }
-else {
- echo "Inválido!";
- }
+
+ //correção do exercicio;
+//  $turno = "M" ;
+// if($turno == "M"){
+//   echo "Bom dia!" ;
+// } else if($turno =="V"){
+//   echo "Boa tarde!";
+// }else if($turno =="N") {
+//   echo "Boa noite!";
+// }else {
+//   echo "turno inválido!";
+// }
 
 
 
