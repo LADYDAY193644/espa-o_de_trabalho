@@ -3,7 +3,7 @@ class Professor{
   private $nome;  
   private $cpf;
   private $disciplina;  
-  private $identificaçao;
+  private $identificacao;
 
 public function getDisciplina(){
      return $this -> disciplina;             
