@@ -2,7 +2,7 @@
 require_once 'Animal.php';
 class Mamifero extends Animal
 {
-  private $Patas;
+  protected $Patas;
 
  
   public function FazendoBarulho()
@@ -13,6 +13,16 @@ class Mamifero extends Animal
  public function __construct($nome,$idade,$cor,$Patas,){
     parent ::__construct($nome,$idade,$cor,);
     $this -> Patas = $Patas;
+}
+}
 
-}
-}
+
+
+
+
+
+
+
+
+
+?>
