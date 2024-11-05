@@ -12,7 +12,7 @@ class Main {
   
   $mamifero1 = new Mamifero("Baleia",103,"azul",0);
   $mamifero2 = new Mamifero("Gato",1,"preto",4);
-  $mamifero1->FazendoBarulho();
+  $mamifero1->FazendoBarulho();1
  }                
 }
 
