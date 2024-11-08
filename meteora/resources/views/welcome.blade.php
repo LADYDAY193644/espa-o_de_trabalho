@@ -13,4 +13,7 @@
      </li>                
 </ul>
     <li>
- 
+     <a href="/produtos">Produtos</a>
+     </li>                
+        </ul>
+  <li>
